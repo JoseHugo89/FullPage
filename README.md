@@ -415,11 +415,12 @@ Do not include sensitive screenshots, credentials, cookies, tokens, or personal 
 
 ## 📄 License
 
-A license has not yet been specified.
+This project is licensed under the MIT License.
 
-If this repository is intended to be open source, consider adding a license such as MIT before encouraging redistribution.
+Copyright © 2026 [JoseHugo89](https://github.com/JoseHugo89)
 
----
+See the [LICENSE](LICENSE) file for details.
+
 
 # Español
 
@@ -785,6 +786,8 @@ No publiques capturas privadas, credenciales, cookies, tokens ni información pe
 
 ## 📄 Licencia
 
-Actualmente no se ha definido una licencia.
+Este proyecto se distribuye bajo la licencia MIT.
 
-Si el proyecto se va a distribuir como software open source, se recomienda agregar una licencia antes de permitir su redistribución.
+Copyright © 2026 [JoseHugo89](https://github.com/JoseHugo89)
+
+Consulta el archivo [LICENSE](LICENSE) para más información.
